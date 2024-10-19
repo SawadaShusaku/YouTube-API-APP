@@ -58,7 +58,7 @@ This is a Streamlit-based web application that analyzes and visualizes detailed 
 1. Streamlitアプリを実行します：
    Run the Streamlit app:
    ```
-   streamlit run app3.py
+   streamlit run youtube_video_analyzer.py
    ```
 
 2. ブラウザでアプリが開きます。
