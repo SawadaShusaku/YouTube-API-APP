@@ -1,7 +1,5 @@
 # YouTube動画分析アプリ / YouTube Video Analysis App
 
-[English version below / 英語版は下部にあります]
-
 ## 概要 / Overview
 
 このアプリケーションは、YouTube動画の詳細情報、コメント、チャンネル情報を分析し、視覚化するStreamlitベースのWebアプリケーションです。
