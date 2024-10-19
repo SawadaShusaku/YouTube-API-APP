@@ -1,3 +1,15 @@
+# macOS system files
+.DS_Store
+
+# 特定のPythonファイル
+app.py
+
+# Python関連
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
