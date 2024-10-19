@@ -41,8 +41,8 @@ This is a Streamlit-based web application that analyzes and visualizes detailed 
 1. リポジトリをクローンします：
    Clone the repository:
    ```
-   git clone https://github.com/yourusername/youtube-analysis-app.git
-   cd youtube-analysis-app
+   git clone https://github.com/SawadaShusaku/YouTube-API-APP.git
+   cd YouTube-API-APP
    ```
 
 2. 必要なパッケージをインストールします：
@@ -98,5 +98,5 @@ Bug reports and feature requests are welcome through GitHub Issues. Pull request
 
 ## 作者 / Author
 
-[Sawada]
+[SAWADA]
 
